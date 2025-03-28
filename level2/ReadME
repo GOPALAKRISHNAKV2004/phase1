@@ -1,0 +1,76 @@
+📌 Features & Implementations
+1️⃣ Functional Greeting
+A simple functional component that displays:
+
+
+Hello from a functional component!
+2️⃣ Class-based Greeting
+A class component using the render() method that displays:
+
+
+Hello from a class component!
+3️⃣ Prop-based Greeting
+Accepts a name prop and dynamically displays:
+
+
+Hello, [Name]!
+4️⃣ Default Props
+Sets a default greeting message when no prop is provided:
+
+
+Hello, World!
+5️⃣ Multiple Props
+Accepts name, age, and city as props and displays them in a structured format.
+
+6️⃣ Prop Types Validation
+Uses PropTypes to validate the prop types.
+
+Displays a console warning if incorrect types are passed.
+
+7️⃣ Simple Counter
+Implements a counter using useState.
+
+Provides buttons to increment and decrement the count.
+
+8️⃣ Toggle Content
+A button toggles the visibility of a <div>.
+
+9️⃣ Input Field State
+Updates state dynamically as the user types in an input field.
+
+Displays the entered text in real-time.
+
+🔟 Form Submission
+Handles form submission and prevents default browser behavior.
+
+Logs the form data to the console.
+
+1️⃣1️⃣ List Rendering with map
+Renders a list dynamically from an array using .map().
+
+1️⃣2️⃣ Conditional Rendering
+Uses a ternary operator to display either:
+
+"Welcome back!" (if logged in)
+
+"Please log in" (if not logged in)
+
+🚀 How to Run the Project
+
+git clone https://github.com/your-username/react-basics.git
+cd react-basics
+Install dependencies:npm install
+Start the development server: npm start
+
+
+                 
+🛠️ Technologies Used
+React
+
+JavaScript (ES6+)
+
+PropTypes
+
+Functional & Class Components
+
+React Hooks (useState)
