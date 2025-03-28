@@ -1,0 +1,33 @@
+.filter-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .search-input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 12px;
+  }
+  
+  .name-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .name-item {
+    padding: 8px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .no-results {
+    color: red;
+    font-style: italic;
+  }
+  

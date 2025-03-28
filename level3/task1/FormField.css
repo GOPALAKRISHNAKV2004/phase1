@@ -1,0 +1,21 @@
+.form-field {
+    margin-bottom: 12px;
+  }
+  
+  .form-label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 12px;
+  }
+  
