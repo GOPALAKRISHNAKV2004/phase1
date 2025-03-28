@@ -1,0 +1,10 @@
+.role-container {
+    text-align: center; /* Center text horizontally */
+    margin-top: 50px;   /* Add space from the top */
+  }
+  
+  .role-message {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
