@@ -59,7 +59,7 @@ IntermediatePerform a calculation inside JSX and display the result.
 
 Instructions:
 
-Create a new component named Calculation.jsx.
+-Create a new component named Calculation.jsx.
 
 Inside the component, declare a variable that performs a simple calculation (e.g., 5 + 10).
 
